@@ -1,0 +1,10 @@
+Websites used:
+
+https://www.openstreetmap.org/
+
+https://www.stackoverflow.com
+
+https://www.udacity.com
+	- Case Study: OpenStreetMap Data" lesson
+
+https://github.com/jeswingeorge/Wrangle-Openstreetmap-data
